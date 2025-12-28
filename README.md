@@ -1,4 +1,4 @@
-# python-mini-projects
+# python Logic & Application Prototypes
 A collection of python scripts for real-world tasks, including password validation and basic automation.
 ## Project List
 
